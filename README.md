@@ -1,5 +1,6 @@
 # Application Architecture - The UI Layer - Guess It!
 [![Build Status](https://app.bitrise.io/app/d078d48122a605ae/status.svg?token=GbzQPTGUqE4Fzt8av9pdAg)](https://app.bitrise.io/app/d078d48122a605ae)
+
 This is the toy app for lesson 5 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
 ## Guess It!
